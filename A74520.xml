@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Protector. A proclamation of his Highness concerning a cessation of all acts of hostility between the Commonwealth of England, and that of the United Provinces, and their respective people, and the restitution of all things taken and seized upon by either party after the fourth of this instant May.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74520</idno>
+            <idno type="STC">Thomason E1063_34</idno>
+            <idno type="STC">ESTC R209591</idno>
+            <idno type="EEBO-CITATION">99868459</idno>
+            <idno type="PROQUEST">99868459</idno>
+            <idno type="VID">169200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169200)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Protector. A proclamation of his Highness concerning a cessation of all acts of hostility between the Commonwealth of England, and that of the United Provinces, and their respective people, and the restitution of all things taken and seized upon by either party after the fourth of this instant May.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>285-288 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Will. du-Gard and Hen. Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Given at Whitehall this first of May, in the year 1654.</note>
+                  <note>Annotation on Thomason copy: "May ye 1st: 1654:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Treaties.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="285" facs="tcp:169200:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+               <hi>By the Lord Protector.</hi>
+            </head>
+            <head type="sub">A Proclamation Of his Highneſs concerning a Ceſſation of all Acts of Hoſtility between the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> and that of the United Provinces, and their reſpective people, and the reſtitution of all things taken and ſeized upon by either party after the fourth of this inſtant <hi>May.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg>LIVER</hi> Lord Protector of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging. Whereas the Commisſi<g ref="char:EOLhyphen"/>oners appointed by Vs to treat with the Am<g ref="char:EOLhyphen"/>baſſadors Extraordinary of the Vnited Pro<g ref="char:EOLhyphen"/>vinces; and the ſaid Ambaſſadors, by way of Explanation of the third of thoſe Articles of Peace, lately concluded between this Com<g ref="char:EOLhyphen"/>monwealth, and that of the Vnited <hi>Netherlands,</hi> and for removing all queſtions and differences which may ariſe thencefrom, Have agreed &amp; con<g ref="char:EOLhyphen"/>cluded the following Article, <hi>viz. That whereas in the third of thoſe Articles of Peace, Union and Confe<g ref="char:EOLhyphen"/>deration
+<pb n="286" facs="tcp:169200:2"/>
+                  <!-- PDF PAGE 24 -->made, eſtabliſhed, and promulged between the Lord PROTECTOR of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Lords the States General of the United Provinces, It is agreed, That all Injuries, Charges and Dam<g ref="char:EOLhyphen"/>mages, which either party hath ſuſtained by the o<g ref="char:EOLhyphen"/>ther ſince the 18/28 of <hi>May</hi> in the year one thouſand ſix hundred fifty two ſhall be taken away and forgotten in ſuch manner as that hereafter neither party ſhall pretend any matter againſt the other for or upon occaſion of any the aforeſaid Injuries, Charges and Dammages, but that there ſhall be a perfect abolition of all and every of them until this pre<g ref="char:EOLhyphen"/>ſent day. And all Actions for the ſame ſhall be held and reputed void and null, excepting ſuch de<g ref="char:EOLhyphen"/>predations as ſhall be committed by either ſide in theſe Seas after the ſpace of twelve daies, and in all other places on this ſide the Cape of St. <hi>Vincent,</hi> af<g ref="char:EOLhyphen"/>ter ſix weeks, and from thence within the <hi>Mediter<g ref="char:EOLhyphen"/>ranean</hi> Sea, and to the <hi>Equinoctial</hi> Line after ten weeks, and beyond the <hi>Equinoctial</hi> Line, after the ſpace of eight Moneths, or immediately after ſufficient notice of the ſaid Peace given in thoſe places.</hi> And wher<g ref="char:EOLhyphen"/>as certain queſtions may poſſibly ariſe about the fore-rehearſed words, which may miniſter occaſion of debates and diſputes, The ſaid Lord Protector, and the ſaid States General, to the end all manner of controverſie and difference may be removed, which might ariſe by reaſon of any thing in the aforeſaid Article contained, Have unanimouſly accorded &amp; agreed, and do by theſe preſents publiſh and declare to all and ſin<g ref="char:EOLhyphen"/>gular their People and Subjects reſpectively, that immediately after Publication of the Treaty of Peace, which is already done, all acts of Hoſtility ſhall immediately ceaſe in all
+<pb n="287" facs="tcp:169200:2"/>
+               <!-- PDF PAGE 24 -->places expreſſed in the ſaid Article, and in all o<g ref="char:EOLhyphen"/>thers whereſoever. And that all depredations, dammages and injuries which ſhall be done or committed by one party againſt the other after the fourth day of this inſtant <hi>May</hi> in all places whatever, mentioned in the foreſaid Article, or elſewhere, as well on this ſide the Line as be<g ref="char:EOLhyphen"/>yond, ſhall be acounted for<g ref="char:punc">▪</g> And all things ta<g ref="char:EOLhyphen"/>ken or ſeized after the aboveſaid fourth of <hi>May,</hi> ſhall be reſtored without any form of Proceſs, as alſo damages growing by occaſion thereof. And to the end this Agreement and Article may be the better known, both parties ſhall Publiſh the ſame within their reſpective Territories and Dominions, and ſtraitly charge and command as well their Ships of War, as others whether in Port, or at Sea, to obſerve the ſame.</p>
+            <p>Wherefore we having conſidered what is a<g ref="char:EOLhyphen"/>greed as aforeſaid, have confirmed and ratified, as we do confirm and ratify the ſame by theſe preſents, which we have cauſed to be publiſhed, that all perſons concerned therein may take no<g ref="char:EOLhyphen"/>tice thereof. And we do hereby ſtraightly charge and require all the Ships of War, and others, either belonging to the State, or to any particular perſons ſet forth upon private Com<g ref="char:EOLhyphen"/>miſſions, or otherwiſe, to obſerve the ſaid A<g ref="char:EOLhyphen"/>greement. And to the end none may pretend ignorance herein, The Commiſſioners of the Admiralty are hereby required to give effectual notice hereof to all the Ships of War of this State, either at Sea, or in Port, within theſe Dominions or elſewhere. And the Judges of the High Court of Admiralty are alſo by vertue of theſe preſents, forthwith to call in upon their
+<pb n="288" facs="tcp:169200:3"/>
+               <!-- PDF PAGE 25 -->ſeveral Securities given in that Court, all ſuch Ships as have been ſet forth upon private Com<g ref="char:EOLhyphen"/>miſſions againſt the Vnited Provinces, or the People thereof.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at <hi>Whitehall</hi>
+                  </hi> 
+                  <date>
+                     <hi>this firſt of <hi>May,</hi> in the year 1654.</hi>
+                  </date>
+               </dateline>
+               <hi>In witneſs whereof as well the Lords Commiſſioners of His Highneſs, as the Ambaſſadors Extraordinary of the States General, have ſigned theſe preſents with their own hands.</hi> 
+               <dateline>Done at <hi>Weſtminſter</hi> 
+                  <date>the <hi>28.</hi> of <hi>April</hi> Old ſtyle, in the year <hi>1654.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>H. Laurence Preſ.</hi>
+                     </item>
+                     <item>
+                        <hi>Gil. Pickering.</hi>
+                     </item>
+                     <item>
+                        <hi>E. Mountagu.</hi>
+                     </item>
+                     <item>
+                        <hi>Wal. Strickland.</hi>
+                     </item>
+                     <item>
+                        <hi>H. Beverningck.</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Nieupoort.</hi>
+                     </item>
+                     <item>
+                        <hi>Alar. P. Jongeſtall.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Printed and Publiſhed by His Highneſs ſpecial command.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Will. du-Gard</hi> and <hi>Hen. Hills,</hi> Printers to His High<g ref="char:EOLhyphen"/>neſs the Lord Protector, 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
